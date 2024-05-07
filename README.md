@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hector <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Python and Front-End developer from Perú</h3>
 
-- 🔭 I’m currently working on **DoubleClics**
+- 🔭 I’m currently working on **www.DoubleClics.com**
 
 - 🌱 I’m currently learning **AWS and Artificial Intelligence**
 
