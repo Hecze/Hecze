@@ -3,13 +3,14 @@
 <h3 align="center">A passionate Full Stack Developer and AI researcher from Peru</h3>
 
 <ul>
-  <li>🔭 I’m working as a **Full Stack Developer** at **DoubleClics**.</li>
-  <li>🔬 I’m a member of the **Médula** research lab, specializing in **artificial intelligence**.</li>
-  <li>🌱 I’m currently learning **AWS** and **Artificial Intelligence**.</li>
-  <li>🚀 As a self-taught individual, I live by the motto **"Never stop learning"**. In my free time, I study **Software Engineering at UNMSM** to complement my education.</li>
-  <li>❤️ I’m passionate about participating in **charitable causes**, **scientific research**, and **innovative projects**.</li>
-  <li>📫 You can reach me at: **hectorzerrillo85@gmail.com**</li>
+  <li>🔭 I’m working as a <strong>Full Stack Developer</strong> at <strong>DoubleClics</strong>.</li>
+  <li>🔬 I’m a member of the <strong>Médula</strong> research lab, specializing in <strong>artificial intelligence</strong>.</li>
+  <li>🌱 I’m currently learning <strong>AWS</strong> and <strong>Artificial Intelligence</strong>.</li>
+  <li>🚀 As a self-taught individual, I live by the motto <strong>"Never stop learning"</strong>. In my free time, I study <strong>Software Engineering at UNMSM</strong> to complement my education.</li>
+  <li>❤️ I’m passionate about participating in <strong>charitable causes</strong>, <strong>scientific research</strong>, and <strong>innovative projects</strong>.</li>
+  <li>📫 You can reach me at: <strong>hectorzerrillo85@gmail.com</strong></li>
 </ul>
+
 
 
 <h3 align="center">Languages and Tools:</h3>
