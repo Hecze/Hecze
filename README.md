@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Hector <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Python and Front-End developer from Perú</h3>
+<h1 align="center">Hi 👋, I'm Hector <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" alt="Dancing Parrot"></h1>
 
-- 🔭 I’m currently working on **www.DoubleClics.com**
+<h3 align="center">A passionate Full Stack Developer and AI researcher from Peru</h3>
 
-- 🌱 I’m currently learning **AWS and Artificial Intelligence**
+<ul>
+  <li>🔭 I’m working as a **Full Stack Developer** at **DoubleClics**.</li>
+  <li>🔬 I’m a member of the **Médula** research lab, specializing in **artificial intelligence**.</li>
+  <li>🌱 I’m currently learning **AWS** and **Artificial Intelligence**.</li>
+  <li>🚀 As a self-taught individual, I live by the motto **"Never stop learning"**. In my free time, I study **Software Engineering at UNMSM** to complement my education.</li>
+  <li>❤️ I’m passionate about participating in **charitable causes**, **scientific research**, and **innovative projects**.</li>
+  <li>📫 You can reach me at: **hectorzerrillo85@gmail.com**</li>
+</ul>
 
-- 📫 How to reach me: **hectorzerrillo85@gmail.com**
-
-- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
-
-</div>
 
 <h3 align="center">Languages and Tools:</h3>
 
