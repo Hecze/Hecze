@@ -10,7 +10,7 @@
 ### Recent Projects and Achievements
 <ul style="margin: 20px auto; padding: 20px; max-width: 600px; list-style-type: none;">
   <li style="margin-bottom: 10px;">🦾 Designed an AI multi-agents architecture for the Vercel AI Competition</li>
-  <li style="margin-bottom: 10px;">🧬 Built a genetic simulation model</li>
+  <li style="margin-bottom: 10px;">🧬 Built a genetic simulation model with procedural texture generation.</li>
   <li style="margin-bottom: 10px;">🐶 Engineered an open-source robot dog with 3D-printed parts</li>
   <li style="margin-bottom: 10px;">☁️ Developed a cloud-based graph-based file manager for Huawei</li>
   <li style="margin-bottom: 10px;">🤖 Created over 10 chatbots with AI to automate services in restaurants, transport, startups, and more</li>
