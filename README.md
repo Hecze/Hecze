@@ -1,9 +1,21 @@
 <h1 align="center">Hi 👋, I'm Hector <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" alt="Dancing Parrot"></h1>
 
-<h3 >A passionate Full Stack Developer and AI researcher from Peru</h3>
+<h3>A passionate Full Stack Developer and AI researcher from Peru</h3>
 
-<p style="font-size: 50px" >I am an AI enthusiast, integrating large language models (LLMs) with various system components to extend capabilities.</p>
+<p style="font-size: 50px">I am an AI enthusiast, integrating large language models (LLMs) with various system components to extend capabilities.</p>
+
+### Key Achievements
 <p>Some of my key achievements include collaborating on innovative projects like a graph-based file manager for Huawei and developing an award-winning genetic simulation software recognized by my university.</p>
+
+### 🔥 Recent Projects and Achievements
+<ul style="margin: 20px auto; padding: 20px; max-width: 600px; list-style-type: none;">
+  <li style="margin-bottom: 10px;">🤖 AI multi-agents architecture for the Vercel AI Competition, which involved context optimization and procedural generation</li>
+  <li style="margin-bottom: 10px;">🧬 Development of a genetic simulation model</li>
+  <li style="margin-bottom: 10px;">🗂️ Creation of a graph-based file manager for Huawei</li>
+  <li style="margin-bottom: 10px;">🤖 Developed over 10 chatbots with AI to automate services in restaurants, transport, startups, and more</li>
+</ul>
+
+### About Me
 <ul style="margin: 20px auto; padding: 20px; max-width: 600px; list-style-type: none;">
   <li style="margin-bottom: 10px;">🔭 I’m working as a <strong>Full Stack Developer</strong> at <strong>DoubleClics</strong>.</li>
   <li style="margin-bottom: 10px;">🔬 I’m a member of the <strong>Médula</strong> research lab, specializing in <strong>artificial intelligence</strong>.</li>
