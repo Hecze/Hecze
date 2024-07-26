@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hector <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" alt="Dancing Parrot"></h1>
 
 <h3 align="center">A passionate Full Stack Developer and AI researcher from Peru</h3>
-
+<p>I am an AI enthusiast, integrating large language models (LLMs) with various system components to extend capabilities. Some of my key achievements include collaborating on innovative projects like a graph-based file manager for Huawei and developing an award-winning genetic simulation software recognized by my university.</p>
 <ul style="margin: 20px auto; padding: 20px; max-width: 600px; list-style-type: none;">
   <li style="margin-bottom: 10px;">🔭 I’m working as a <strong>Full Stack Developer</strong> at <strong>DoubleClics</strong>.</li>
   <li style="margin-bottom: 10px;">🔬 I’m a member of the <strong>Médula</strong> research lab, specializing in <strong>artificial intelligence</strong>.</li>
