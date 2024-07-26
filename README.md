@@ -9,12 +9,11 @@
 
 ### Recent Projects and Achievements
 <ul style="margin: 20px auto; padding: 20px; max-width: 600px; list-style-type: none;">
-    <li style="margin-bottom: 10px;">🤖 Developed over 10 chatbots with AI to automate services in restaurants, transport, startups, and more</li>
-  <li style="margin-bottom: 10px;">🦾 AI multi-agents architecture for the Vercel AI Competition.</li>
-  <li style="margin-bottom: 10px;">🧬 Development of a genetic simulation model</li>
-   <li style="margin-bottom: 10px;">🐶 Development of an open-source robot dog with 3D-printed parts</li>
-  <li style="margin-bottom: 10px;">🗂️ Creation of a graph-based file manager for Huawei</li>
-
+  <li style="margin-bottom: 10px;">🤖 Over 10 chatbots developed with AI to automate services in restaurants, transport, startups, and more</li>
+  <li style="margin-bottom: 10px;">🦾 AI multi-agents architecture for the Vercel AI Competition</li>
+  <li style="margin-bottom: 10px;">🧬 Genetic simulation model development</li>
+  <li style="margin-bottom: 10px;">🐶 Open-source robot dog with 3D-printed parts</li>
+  <li style="margin-bottom: 10px;">🗂️ Graph-based file manager for Huawei</li>
 </ul>
 
 ### About Me
