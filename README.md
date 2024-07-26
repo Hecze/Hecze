@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hector <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" alt="Dancing Parrot"></h1>
-<hr/>
+
 <h3 >A passionate Full Stack Developer and AI researcher from Peru</h3>
-<hr/>
+
 <p style="font-size: 50px" >I am an AI enthusiast, integrating large language models (LLMs) with various system components to extend capabilities.</p>
 <p>Some of my key achievements include collaborating on innovative projects like a graph-based file manager for Huawei and developing an award-winning genetic simulation software recognized by my university.</p>
 <ul style="margin: 20px auto; padding: 20px; max-width: 600px; list-style-type: none;">
