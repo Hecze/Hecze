@@ -5,14 +5,6 @@
 <p style="font-size: 50px">I have experience in web development and am currently specializing in artificial intelligence. My main focus is on integrating large language models (LLMs) with various system components to enhance their functionality and reach.</p>
 <p style="font-size: 50px">I am interested in working on innovative projects and scientific research. I value opportunities to explore new possibilities and tackle challenges. I am also dedicated to charitable causes and strive to make a positive contribution to the community.</p>
 
-### Recent Projects and Achievements
-<ul style="margin: 20px auto; padding: 20px; max-width: 600px; list-style-type: none;">
-  <li style="margin-bottom: 10px;">🦾 Designed an AI multi-agents architecture for the Vercel AI Competition</li>
-  <li style="margin-bottom: 10px;">🧬 Built a genetic simulation model with procedural texture generation.</li>
-  <li style="margin-bottom: 10px;">🐶 Engineered an open-source robot dog with 3D-printed parts</li>
-  <li style="margin-bottom: 10px;">☁️ Developed a cloud-based graph-based file manager for Huawei</li>
-  <li style="margin-bottom: 10px;">🤖 Created over 10 chatbots with AI to automate services in restaurants, transport, startups, and more</li>
-</ul>
 
 ### About Me
 <ul style="margin: 20px auto; padding: 20px; max-width: 600px; list-style-type: none;">
@@ -24,6 +16,14 @@
   <li>📫 You can reach me at: <strong>hectorzerrillo85@gmail.com</strong></li>
 </ul>
 
+### Recent Projects and Achievements
+<ul style="margin: 20px auto; padding: 20px; max-width: 600px; list-style-type: none;">
+  <li style="margin-bottom: 10px;">🦾 Designed an AI multi-agents architecture for the Vercel AI Competition</li>
+  <li style="margin-bottom: 10px;">🧬 Built a genetic simulation model with procedural texture generation.</li>
+  <li style="margin-bottom: 10px;">🐶 Engineered an open-source robot dog with 3D-printed parts</li>
+  <li style="margin-bottom: 10px;">☁️ Developed a cloud-based graph-based file manager for Huawei</li>
+  <li style="margin-bottom: 10px;">🤖 Created over 10 chatbots with AI to automate services in restaurants, transport, startups, and more</li>
+</ul>
 
 
 <h3 align="center">Languages and Tools:</h3>
