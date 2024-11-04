@@ -5,7 +5,6 @@
 <p style="font-size: 50px">I have experience in web development and am currently specializing in artificial intelligence. My main focus is on integrating large language models (LLMs) with various system components to enhance their functionality and reach.</p>
 <p style="font-size: 50px">I am interested in working on innovative projects and scientific research. I value opportunities to explore new possibilities and tackle challenges. I am also dedicated to charitable causes and strive to make a positive contribution to the community.</p>
 
-
 ### About Me
 <ul style="margin: 20px auto; padding: 20px; max-width: 600px; list-style-type: none;">
   <li style="margin-bottom: 10px;">🔭 I’m working as a <strong>AI Engineer</strong> at <strong>Protecso</strong>.</li>
@@ -24,7 +23,6 @@
   <li style="margin-bottom: 10px;">☁️ Developed a cloud-based graph-based file manager for Huawei</li>
   <li style="margin-bottom: 10px;">🤖 Created over 10 chatbots with AI to automate services in restaurants, transport, startups, and more</li>
 </ul>
-
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -49,7 +47,14 @@
   </a>
 </p>
 
+<h3 align="center">Certifications:</h3>
+
+<p align="center">
+  <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Data-Engineer-Associate_badge_150x150.c957987af8e4ecddaf04e6ab06eb92241c439c9e.png" alt="AWS Data Engineer Certification" width="100" height="100" />
+  <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Machine-Learning-Engineer-Associate_badge_150x150.5b20006dbf23c59ce652afbf3bd943cc3a013159.png" alt="AWS Machine Learning Certification" width="100" height="100" />
+  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Machine-Learning-Specialty_badge.e5d66b56552bbf046f905bacaecef6dad0ae7180.png" alt="AWS Machine Learning Specialty" width="100" height="100" />
+</p>
+
 <p align= "center">
-<!--   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Hecze&theme=react&show_icons=true&include_all_commits=true" /> -->
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hecze&theme=react&layout=compact" />
 </p>
