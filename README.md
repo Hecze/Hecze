@@ -11,7 +11,7 @@
   <li style="margin-bottom: 10px;">🔭 I’m working as a <strong>AI Engineer</strong> at <strong>Protecso</strong>.</li>
   <li style="margin-bottom: 10px;">🔬 I’m focus in <strong>AWS</strong> and <strong>Artificial Intelligence</strong>.</li>
   <li style="margin-bottom: 10px;">🌱 I’m currently building a startup in the <strong>fashion industry</strong>.</li>
-  <li style="margin-bottom: 10px;">🚀 As a self-taught individual, I live by the motto <strong>"Never stop learning"</strong>. In my free time, I study <strong>Software Engineering at UNMSM</strong> to complement my education.</li>
+  <li style="margin-bottom: 10px;">🚀 As a self-taught individual, I live by the motto <strong>"Never stop learning"</strong>.
   <li style="margin-bottom: 10px;">❤️ I’m passionate about participating in <strong>charitable causes</strong>, <strong>scientific research</strong>, and <strong>innovative projects</strong>.</li>
   <li>📫 You can reach me at: <strong>hectorzerrillo85@gmail.com</strong></li>
 </ul>
