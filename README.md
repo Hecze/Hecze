@@ -27,7 +27,8 @@
 
 <p align="center">
   <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-AI-Practitioner_badge_150x150.bb2bb1cae960f5ee8b93d3e2ccc9dd64bff29180.png" alt="AWS Data Engineer Certification" width="150" height="150" />
-  <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Data-Engineer-Associate_badge_150x150.c957987af8e4ecddaf04e6ab06eb92241c439c9e.png" alt="AWS Data Engineer Certification" width="150" height="150" />
+  /*<img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Data-Engineer-Associate_badge_150x150.c957987af8e4ecddaf04e6ab06eb92241c439c9e.png" alt="AWS Data Engineer Certification" width="150" height="150" />*/
+  <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Solutions-Architect-Associate_badge_150x150.e359ae4a6d4d82c3e31d4f9104c8d389b56a2423.png" alt="AWS Solution Architect Certification" width="150" height="150" />
   <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Machine-Learning-Engineer-Associate_badge_150x150.5b20006dbf23c59ce652afbf3bd943cc3a013159.png" alt="AWS Machine Learning Certification" width="150" height="150" />
   <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Machine-Learning-Specialty_badge.e5d66b56552bbf046f905bacaecef6dad0ae7180.png" alt="AWS Machine Learning Specialty" width="150" height="150" />
 </p>
